@@ -1,0 +1,4 @@
+# Dependencias externas de ejecución (Python 3.10+).
+# Las restantes importaciones del proyecto pertenecen a la biblioteca estándar.
+Flask>=3.0.0
+selenium>=4.15.0

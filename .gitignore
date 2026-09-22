@@ -1,0 +1,9 @@
+# Compilados de Python y cachés
+__pycache__/
+*.pyc
+modules/__pycache__/
+server/__pycache__/
+
+# Logs y carpetas de evidencia generadas
+*.log
+evidencias/
